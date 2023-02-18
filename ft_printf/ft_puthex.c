@@ -6,7 +6,7 @@
 /*   By: ofadhel <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 14:14:13 by ofadhel           #+#    #+#             */
-/*   Updated: 2023/02/18 14:26:08 by ofadhel          ###   ########.fr       */
+/*   Updated: 2023/02/18 15:03:27 by ofadhel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,5 +22,27 @@ int	ft_hexlower(unsigned int nb)
 	if (nb >= 16)
 		i += ft_hexlower(nb / 16);
 	i += ft_putchar(hex[nb % 16]);
+	return (i);
+}
+
+int	ft_hexupper(unsigned int nb)
+{
+	int	i;
+	char	*hex;
+
+	hex = "0123456789ABCDEF"
+	i = 0;
+	if (nb >= 16)
+		i += ft_hexlower(nb / 16);
+	i += ft_putchar(hex[nb % 16]);
+	return (i);
+}
+
+int	ft_pointer(unsigned long ptr)
+{
+	int	i;
+
+	i += ft_putstr("0x");
+	i += ft_hexlower(ptr);  //to fix, write another function like hexlower but with unsigned long
 	return (i);
 }

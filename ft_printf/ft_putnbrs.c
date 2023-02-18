@@ -6,13 +6,13 @@
 /*   By: ofadhel <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 13:47:11 by ofadhel           #+#    #+#             */
-/*   Updated: 2023/02/18 14:09:36 by ofadhel          ###   ########.fr       */
+/*   Updated: 2023/02/18 15:17:12 by ofadhel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 include "ft_printf.h"
 
-int	ft_putunbr(int nb)
+int	ft_putunbr(unsigned int nb)
 {
 	int	i;
 
@@ -34,7 +34,7 @@ int	ft_putunbr(int nb)
 	return (i);
 }
 
-int	ft_putnbr(unsigned int nb)
+int	ft_putnbr(int nb)
 {
 	int	i;
 
