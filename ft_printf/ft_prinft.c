@@ -6,32 +6,30 @@
 /*   By: ofadhel <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 09:31:22 by ofadhel           #+#    #+#             */
-/*   Updated: 2023/02/18 10:07:52 by ofadhel          ###   ########.fr       */
+/*   Updated: 2023/02/18 14:11:29 by ofadhel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "ft_printf.h"
 
 int	ft_convert(const char c, va_list arg)
 {
 	if (c == 'c')
-		return = ft_putchar(va_arg(arg, int), i);
+		return (ft_putchar(va_arg(arg, int)));
 	else if (c == 's')
-		return = ft_
+		return (ft_putstr(va_arg(arg, char *)));
 	else if (c == 'p')
-		return =
-	else if (c == 'd')
-		return =
-	else if (c == 'i')
-		return =
+		return (ft_pointer(va_arg(arg, unsigned long));
+	else if (c == 'd' || c == 'i')
+		return (ft_putnbr(va_arg(arg, int));
 	else if (c == 'u')
-		return =
+		return (ft_putunbr(va_arg(arg, unsigned int)));
 	else if (c == 'x')
-		return =
+		return (ft_hexlower(va_arg(arg, unsigned int)))
 	else if (c == 'X')
-		return =
+		return (ft_hexupper(va_arg(arg, unsigned int)));
 	else (c == '%')
-		return = 
+		return (ft_putchar('%'));
 }
 
 int	ft_printf(const char *format, ...)
