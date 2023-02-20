@@ -6,11 +6,11 @@
 /*   By: ofadhel <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/18 13:47:11 by ofadhel           #+#    #+#             */
-/*   Updated: 2023/02/18 15:17:12 by ofadhel          ###   ########.fr       */
+/*   Updated: 2023/02/20 17:20:01 by ofadhel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-include "ft_printf.h"
+#include "ft_printf.h"
 
 int	ft_putunbr(unsigned int nb)
 {
@@ -41,7 +41,7 @@ int	ft_putnbr(int nb)
 	i = 0;
 	if (nb == -2147483648)
 	{
-		i +=ft_putchar('-');
+		i += ft_putchar('-');
 		i += ft_putchar('2');
 		nb = 147483648;
 	}
