@@ -6,7 +6,7 @@
 /*   By: ofadhel <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/20 16:50:15 by ofadhel           #+#    #+#             */
-/*   Updated: 2023/02/20 17:17:23 by ofadhel          ###   ########.fr       */
+/*   Updated: 2023/02/20 18:11:52 by ofadhel          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,9 +25,9 @@ int	ft_convert(char c, va_list arg)
 	else if (c == 'u')
 		return (ft_putunbr(va_arg(arg, unsigned int)));
 	else if (c == 'x')
-		return (ft_hexlower(va_arg(arg, unsigned int)));
+		return (ft_hexlower(va_arg(arg, int)));
 	else if (c == 'X')
-		return (ft_hexupper(va_arg(arg, unsigned int)));
+		return (ft_hexupper(va_arg(arg, int)));
 	else if (c == '%')
 		return (ft_putchar('%'));
 	return (0);
