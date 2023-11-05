@@ -12,11 +12,11 @@ All my projects of 42Network at 42 Roma Luiss.
 # My progress
 |Circle | Project | Language | Description | Score | 
 |:-----:|:-------:|:--------:|:-----------:|:-----:|
-|00| [Libft](https://github.com/OsemaFadhel/Libft) | C | C library for 42 projects | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2935625" alt="ofadhel's 42 Libft Score" /></a> |
-|01| [ft_printf](https://github.com/OsemaFadhel/ft_printf) | C | Recode Printf | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2978301" alt="ofadhel's 42 ft_printf Score" /></a>|
-|01| [get_next_line](https://github.com/OsemaFadhel/Get_next_line) | C | Function that returns a line read from a file descriptor | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2990915" alt="ofadhel's 42 get_next_line Score" /></a> | 
-|01| [Born2beroot](https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md) - [Bonus](https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md)| VM | Setting up a virtual machine | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2994360" alt="ofadhel's 42 Born2beroot Score" /></a> |
-|02| [so_long](https://github.com/OsemaFadhel/so_long) | C | Small 2D game w/ minilibx | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/3036363" alt="ofadhel's 42 so_long Score" /></a> |
-|02| [Minitalk](https://github.com/OsemaFadhel/minitalk) | C | Code a small data exchange program w/ Unix signals | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/3036346" alt="ofadhel's 42 minitalk Score" /></a> | 
-|02| [push_swap](https://github.com/OsemaFadhel/pushswap) | C | Sorting data on a stack | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/3043105" alt="ofadhel's 42 push_swap Score" /></a> |
-|03| [Philosophers](https://github.com/OsemaFadhel/philosophers) | C | Philosophers dining table problem (THREADS) | <a  /></a> |
+|00| [Libft](https://github.com/OsemaFadhel/Libft) | C | C library for 42 projects | 125/125 ✅ |
+|01| [ft_printf](https://github.com/OsemaFadhel/ft_printf) | C | Recode Printf | 100/125 ✅ |
+|01| [get_next_line](https://github.com/OsemaFadhel/Get_next_line) | C | Function that returns a line read from a file descriptor | 125/125 ✅ | 
+|01| [Born2beroot](https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md) - [Bonus](https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md)| VM | Setting up a virtual machine | 125/125 ✅ |
+|02| [so_long](https://github.com/OsemaFadhel/so_long) | C | Small 2D game w/ minilibx | 115/125 ✅ |
+|02| [Minitalk](https://github.com/OsemaFadhel/minitalk) | C | Code a small data exchange program w/ Unix signals | 125/125 ✅ | 
+|02| [push_swap](https://github.com/OsemaFadhel/pushswap) | C | Sorting data on a stack | 96/125 ✅ |
+|03| [Philosophers](https://github.com/OsemaFadhel/philosophers) | C | Philosophers dining table problem (THREADS) | 100/125 ✅ |
