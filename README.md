@@ -1,14 +1,6 @@
 # 42-Cursus
 All my projects of 42Network at 42 Roma Luiss. 
 
-<div align="center">
-	<table>
-		<tr>
-			<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/stats?cursusId=21&coalitionId=124" alt="ofadhel's 42 stats" /></a>
-               </tr>
-	</table>
-</div>
-
 # My progress
 |Circle | Project | Language | Description | Score | 
 |:-----:|:-------:|:--------:|:-----------:|:-----:|
