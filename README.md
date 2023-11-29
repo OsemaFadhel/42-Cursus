@@ -1,4 +1,4 @@
-# 42-Cursus
+# 42-Cursus 🛠
 All my projects of 42Network at 42 Roma Luiss. 
 
 # My progress
