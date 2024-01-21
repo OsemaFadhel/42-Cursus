@@ -12,4 +12,5 @@ All my projects of 42Network at 42 Roma Luiss.
 |02| [Minitalk](https://github.com/OsemaFadhel/minitalk) | C | Code a small data exchange program w/ Unix signals | 125/125 ✅ | 
 |02| [push_swap](https://github.com/OsemaFadhel/pushswap) | C | Sorting data on a stack | _96/125 ✅ |
 |03| [Philosophers](https://github.com/OsemaFadhel/philosophers) | C | Philosophers dining table problem (THREADS) | 100/125 ✅ |
-|03| [Minishell](https://github.com/OsemaFadhel/minishell) | C | Creating a simple shell. | -/125 ⌨️🛠 |
+|03| [Minishell](https://github.com/OsemaFadhel/minishell) | C | Creating a simple shell. | 98/125 ✅ |
+|04| [Module Cpp04](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | -/125 ⌨️ 🛠 |
