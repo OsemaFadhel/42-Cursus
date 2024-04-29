@@ -13,4 +13,8 @@ All my projects of 42Network at 42 Roma Luiss.
 |02| [push_swap](https://github.com/OsemaFadhel/pushswap) | C | Sorting data on a stack | _96/125 ✅ |
 |03| [Philosophers](https://github.com/OsemaFadhel/philosophers) | C | Philosophers dining table problem (THREADS) | 100/125 ✅ |
 |03| [Minishell](https://github.com/OsemaFadhel/minishell) | C | Creating a simple shell. | 98/125 ✅ |
-|04| [Module Cpp04](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | -/125 ⌨️ 🛠 |
+|04| [Cub3D](https://github.com/OsemaFadhel/cub3D) | C | It will enable you to explore ray-casting. | 105/125 ✅ |
+|04| NetPractice | NETWORK | Practical exercise to discover networking. | 100/100 ✅ |
+|04| [Module Cpp04](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | 80/100 ✅ |
+|05| [Module Cpp09](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | -/100 👨🏻‍💻 🛠️ |
+|05| [Inception](https://github.com/OsemaFadhel/Inception) | Docker | Virtualize several Docker images (Nginx, Mariadb, Wordpress). | -/125 👨🏻‍💻 🛠️ |
