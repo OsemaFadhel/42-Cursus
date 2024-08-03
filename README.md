@@ -18,3 +18,4 @@ All my projects of 42Network at 42 Roma Luiss.
 |04| [Module Cpp04](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | 80/100 ✅ |
 |05| [Module Cpp09](https://github.com/OsemaFadhel/CPP42) | CPP | Introduction to Object-Oriented Programming. | -/100 👨🏻‍💻 🛠️ |
 |05| [Inception](https://github.com/OsemaFadhel/Inception) | Docker | Virtualize several Docker images (Nginx, Mariadb, Wordpress). | 100/125 ✅ |
+|05| [ft_irc](https://github.com/OsemaFadhel/ft_irc) | CPP | IRC server in C++, fully compatible with an official client. | -/125 👨🏻‍💻 🛠️ |
