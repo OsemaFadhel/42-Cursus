@@ -1,7 +1,7 @@
 # 42-Cursus 🛠
 All my projects of 42Network at 42 Roma Luiss. 
 
-<h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra.png" width="800" height="380" /> </h2>
+<h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra1.png" width="800" height="380" /> </h2>
 
 # My progress
 |Circle | Project | Language | Description | Score | 
